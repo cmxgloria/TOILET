@@ -22,7 +22,6 @@ var flush1 = document.querySelector(".flush-btn");
 var poop = function() {
   window.document.body.children[1].style.backgroundColor = "darkolivegreen";
 };
-``;
 var flush = function() {
   window.document.body.children[1].style.backgroundColor = "mintcream";
 };
